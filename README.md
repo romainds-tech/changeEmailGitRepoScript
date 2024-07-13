@@ -8,7 +8,6 @@ This script allows you to change the email address associated with all commits i
 
 - Changes both author and committer email addresses
 - Works on all branches and tags
-- Simple command-line interface
 
 ## Installation
 
