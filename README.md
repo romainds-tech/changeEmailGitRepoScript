@@ -27,6 +27,6 @@ chmod +x script.sh
 ## Usage
 
 ```bash
-script.sh old_email@mail.com new_email@mail.com
+./script.sh old_email@mail.com new_email@mail.com
 ```
 
