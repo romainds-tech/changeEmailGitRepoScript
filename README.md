@@ -10,11 +10,6 @@ This script allows you to change the email address associated with all commits i
 - Works on all branches and tags
 - Simple command-line interface
 
-## Prerequisites
-
-- Bash shell
-- Git
-
 ## Installation
 
 1. Clone this repository
